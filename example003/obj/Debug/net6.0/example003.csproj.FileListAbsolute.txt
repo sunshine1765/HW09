@@ -1,0 +1,15 @@
+/Users/olegbereut/Desktop/HWSEND1009/example003/bin/Debug/net6.0/example003
+/Users/olegbereut/Desktop/HWSEND1009/example003/bin/Debug/net6.0/example003.deps.json
+/Users/olegbereut/Desktop/HWSEND1009/example003/bin/Debug/net6.0/example003.runtimeconfig.json
+/Users/olegbereut/Desktop/HWSEND1009/example003/bin/Debug/net6.0/example003.dll
+/Users/olegbereut/Desktop/HWSEND1009/example003/bin/Debug/net6.0/example003.pdb
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.csproj.AssemblyReference.cache
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.AssemblyInfoInputs.cache
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.AssemblyInfo.cs
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.csproj.CoreCompileInputs.cache
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.dll
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/refint/example003.dll
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.pdb
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/example003.genruntimeconfig.cache
+/Users/olegbereut/Desktop/HWSEND1009/example003/obj/Debug/net6.0/ref/example003.dll
